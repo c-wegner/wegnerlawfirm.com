@@ -1,0 +1,3 @@
+tasks:
+  - init: npm develop
+    command: npm run
